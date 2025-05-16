@@ -1,0 +1,7 @@
+pretraining_length: 4096
+target_length: 3500
+chunk_length: 512
+bpp_threshold: 65
+MLP_model: "clfmodel/clfmodel_v_mlp.pth"
+use_dynamic: True
+select_method: cos

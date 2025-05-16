@@ -1,0 +1,10 @@
+model:
+  type: origin
+  path: your LLM model path
+  fattn: true
+  base: 500000
+  distance_scale: 1.0
+
+max_len: 32768
+chunk_size: 8192
+conv_type: llama-3-inst

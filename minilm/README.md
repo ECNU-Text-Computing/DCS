@@ -1,0 +1,1 @@
+You can get the model from https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2

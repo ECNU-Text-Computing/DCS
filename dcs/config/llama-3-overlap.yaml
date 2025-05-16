@@ -1,0 +1,8 @@
+pretraining_length: 8192
+target_length: 7500
+chunk_length: 384
+bpp_threshold: 60
+MLP_model: "clfmodel/clfmodel_l3_mlp.pth"
+use_dynamic: False
+overlap: 128
+select_method: MLP

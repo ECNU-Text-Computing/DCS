@@ -1,0 +1,1 @@
+You can get the data from https://rajpurkar.github.io/SQuAD-explorer/
