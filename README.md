@@ -42,6 +42,8 @@ bash qadata_l3.sh
 
 ### 4. Evaluate DCS on LongBench
 
+To make it more convenient for researchers to reproduce our results, we have made our question-aware model publicly available at the following link: https://drive.google.com/drive/folders/1auYO8lNLyjoJdVsEV1wUyTFX_fbklwMD?usp=drive_link
+
 ```sh
 bash longbench_l3_our.sh
 ```
